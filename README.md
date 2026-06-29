@@ -5,7 +5,7 @@
 
 ## Summary
 
-Full Stack Developer with **8 years of experience** specializing in **React.js** and **Node.js**. Proven expertise in building secure and scalable financial applications and enterprise solutions.
+Full Stack Developer with **7 years of experience** specializing in **MERN**. Proven expertise in building secure and scalable financial applications and enterprise solutions.
 
 - Extensive experience in API development using Node.js.
 - Proficient in AWS services with a focus on serverless architecture.
@@ -63,11 +63,13 @@ I also worked on integrating third-party APIs and payment gateways while maintai
 
 - AWS Certified Developer – Associate
 - MongoDB Associate Developer
+- Anthropic - Certificate of completion: Claude code 101
+- LinkedIn - Advanced Prompting with GitHub Copilot 
 
 ## Contact
 
 - **Email:** [upendarreddy483@gmail.com](mailto:upendarreddy483@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yourprofile) <!-- Replace with your actual LinkedIn URL -->
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yourprofile) <https://www.linkedin.com/in/upendar-reddy-alen>
 - **Phone:** (940) 758-4977
 
 ---
