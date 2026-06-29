@@ -69,7 +69,7 @@ I also worked on integrating third-party APIs and payment gateways while maintai
 ## Contact
 
 - **Email:** [upendarreddy483@gmail.com](mailto:upendarreddy483@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yourprofile) <https://www.linkedin.com/in/upendar-reddy-alen>
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/upendar-reddy-alenki/)
 - **Phone:** (940) 758-4977
 
 ---
