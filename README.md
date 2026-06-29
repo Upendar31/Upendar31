@@ -1,6 +1,6 @@
 # Upendar Reddy Alenki
 
-![Profile Image](https://via.placeholder.com/150) <<img width="300" height="726" alt="b82678f0-9083-4ca0-be64-ccc9363af4d6" src="https://github.com/user-attachments/assets/cbab1c48-13e4-4aeb-b383-4ce11e421b54" />
+![Profile Image](https://via.placeholder.com/150) <<img width="100" height="300" alt="b82678f0-9083-4ca0-be64-ccc9363af4d6" src="https://github.com/user-attachments/assets/cbab1c48-13e4-4aeb-b383-4ce11e421b54" />
 >
 
 ## Summary
